@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **maharshipatel878@gmail.com**
 
-- ⚡ Fun fact **im 12 years old LOL**
+- ⚡ Fun fact **im 13 years old LOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
