@@ -1,24 +1,20 @@
 <img align="center" alt="image thingy" height="500" src="https://github.com/user-attachments/assets/7bbe3d30-f504-42c5-8d30-6a2d4dbe1848">
-<h1 align="center">Hi 👋, I'm Maharshi Patel</h1>
-<h3 align="center">A developer. yeah. that's it.</h3>
+<h1 align="center">Hi! I'm Maharshi Patel</h1>
+<h3 align="center">A developer, student, and a vibe coder.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maharshi878&color=a9c1f1&style=for-the-badge" alt="maharshi878" /> </p>
 
-- 🔭 I’m currently working on [multiple stuff](https://github.com/maharshi878)
+- 🔭 I’m currently working on [TrustLens](https://github.com/maharshi878/trustlens)
 
-- 🌱 I’m currently learning **HTML, python, javascript, cpp**
+- 🌱 I’m currently learning **Python, React, Typescript**
 
-- 👯 I’m looking to collaborate on **webservers**
-
-- 🤝 I’m looking for help with **python, java**
+- 👯 I’m looking to collaborate on **AI Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maharshi878](https://github.com/maharshi878)
 
-- 💬 Ask me about **HTML, css, javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, AI**
 
 - 📫 How to reach me **maharshipatel878@gmail.com**
-
-- ⚡ Fun fact **im 15 years old LOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
