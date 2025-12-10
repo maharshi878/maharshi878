@@ -1,4 +1,4 @@
-<img align="center" alt="image thingy" height="300" width="1000" src="https://cdn.esahubble.org/archives/images/publicationjpg/heic0601a.jpg">
+<img align="center" alt="image thingy" height="300" src="https://cdn.esahubble.org/archives/images/publicationjpg/heic0601a.jpg">
 <h1 align="center">Hi 👋, I'm Maharshi Patel</h1>
 <h3 align="center">A developer. yeah. that's it.</h3>
 
