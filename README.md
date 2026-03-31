@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maharshi878&color=a9c1f1&style=for-the-badge" alt="maharshi878" /> </p>
 
-- 🔭 I’m currently working on [FreelanceCFO](https://freelancecfo.vercel.app)
+- 🔭 I’m currently working on [FreelanceCFO](https://freelancecfo.online)
 
 - 🌱 I’m currently learning **Python, React, Typescript**
 
