@@ -8,11 +8,7 @@
 
 - 🌱 I’m currently learning **Python, React, Typescript**
 
-- 👯 I’m looking to collaborate on **AI Models**
-
 - 👨‍💻 All of my projects are available at [https://github.com/maharshi878](https://github.com/maharshi878)
-
-- 💬 Ask me about **HTML, CSS, Javascript, AI**
 
 - 📫 How to reach me **maharshipatel878@gmail.com**
 
