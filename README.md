@@ -86,6 +86,7 @@ AI tools generate hyper-realistic images, videos, UPI receipts, and documents. T
 ```
 FRONTEND .......... React · TypeScript · Tailwind CSS · Vite
 BACKEND ........... Supabase (Postgres + Auth + RLS)
+MAILING SETUP ..... Resend.com, EmailJS
 HOSTING ........... Vercel
 LANGUAGES ......... TypeScript · Python · JavaScript
 VERSION CONTROL ... Git · GitHub
@@ -93,6 +94,23 @@ VERSION CONTROL ... Git · GitHub
 
 ---
 
+ 
+## `> CLIENT WORK`
+ 
+### ◆ [Shubham Foods](https://shubhamfoods.vercel.app) `— LIVE`
+> **Product showcase + B2B/B2C enquiry system for a garlic manufacturer.**
+ 
+Shubham Foods makes specialty garlic products — black garlic, freeze-dried garlic, vacuum-fried garlic. Built them a full web presence: product showcase for every SKU, and a single unified enquiry form that serves both bulk B2B buyers and D2C customers, with instant email delivery to the owner via EmailJS.
+ 
+```
+→ Full product showcase — every SKU with dedicated detail
+→ Unified B2B + B2C enquiry — one form, two audiences
+→ EmailJS integration — owner notified instantly on every enquiry
+→ Designed to convert, not just to exist
+```
+ 
+> **Design** — this is the flagship. Best thing I've shipped visually.
+> **Integrations** — for that, see FreelanceCFO.
 ## `> FREELANCE`
 
 I take on a small number of projects at a time, which means if I take yours, I'm actually in on it.
