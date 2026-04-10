@@ -155,8 +155,8 @@ I take on a small number of projects at a time, which means if I take yours, I'm
 
 <div align="center">
 
-**`"I don't wait for permission to build."`**
+**`Building Crazy Cool Stuff`**
 
-[maharshis.tech](https://maharshis.tech) · [hello@maharshis.tech](mailto:hello@maharshis.tech)
+[maharshis.tech](https://maharshis.tech) · [maharshipatel878@gmail.com](mailto:maharshipatel878@gmail.com)
 
 </div>
