@@ -37,7 +37,7 @@ WAITING UNTIL OLDER TO BUILD THINGS ..... No
 
 ## `> WHAT I BUILD`
 
-I'm a developer and founder. I don't wait for permission to ship things.
+I'm a developer and a founder.
 
 Two SaaS products live. Real freelance clients. Still in high school — and I intend to keep going.
 
