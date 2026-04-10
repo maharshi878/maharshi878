@@ -148,6 +148,7 @@ I take on a small number of projects at a time, which means if I take yours, I'm
 
 ```
 → Shipping FreelanceCFO Phase 2 (bank syncing + income forecasting)
+→ Building Synapse 👀 keep ya eyes peeled
 → Open to interesting freelance projects
 ```
 
