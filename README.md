@@ -1,9 +1,3 @@
-<!-- ============================================================
-     MAHARSHI — GitHub Profile README
-     Vibe: Cinematic dark · Raw ambition · Controlled chaos
-     Matches: maharshis.tech portfolio v2
-     ============================================================ -->
-
 <div align="center">
 
 ```
@@ -15,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝
 ```
 
-**`BUILDS THINGS. AGE 15. BHARUCH → WORLD.`**
+**`Teenage founder from India. 15. Builds Stuff`**
 
 [![Portfolio](https://img.shields.io/badge/maharshis.tech-FFE135?style=flat-square&logo=vercel&logoColor=000000)](https://maharshis.tech)
 [![Email](https://img.shields.io/badge/maharshipatel878@gmail.com-111111?style=flat-square&logo=gmail&logoColor=FFE135)](mailto:maharshipatel878@gmail.com)
@@ -26,11 +20,10 @@
 ---
 
 ```
-STATUS .................................. Open to freelance
+STATUS .................................. Open to freelance, building with passion.
 LOCATION ................................ Bharuch, Gujarat, India
 AGE ..................................... 15
 PRODUCTS LIVE ........................... 2
-WAITING UNTIL OLDER TO BUILD THINGS ..... No
 ```
 
 ---
@@ -39,7 +32,7 @@ WAITING UNTIL OLDER TO BUILD THINGS ..... No
 
 I'm a developer and a founder.
 
-Two SaaS products live. Real freelance clients. Still in high school — and I intend to keep going.
+I have two SaaS products live. Real freelance clients. Still in high school.
 
 ---
 
@@ -48,7 +41,7 @@ Two SaaS products live. Real freelance clients. Still in high school — and I i
 ### ◆ [FreelanceCFO](https://freelancecfo.online) `— LIVE`
 > **The financial command center for freelancers.**
 
-Freelancers don't get predictable paychecks. One month $8,000. Next month $900. Every existing finance tool assumes a salary. FreelanceCFO was built for the feast-or-famine reality.
+Freelancers don't get predictable paychecks. One month $8,000, Next month $900. Every existing finance tool assumes a salary. FreelanceCFO was built for the feast-or-famine reality.
 
 **The question it answers:** *"If I stopped getting clients today — how long could I survive?"*
 
@@ -132,7 +125,7 @@ I take on a small number of projects at a time, which means if I take yours, I'm
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Martian+Mono&size=13&duration=3000&pause=800&color=FFE135&background=05050500&center=true&vCenter=true&width=500&lines=15+year+old+founder+%2F+Surat%2C+India;Shipping+FreelanceCFO+%2B+TrustLens;Building+things+that+matter;Open+to+freelance+work)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Martian+Mono&size=13&duration=3000&pause=800&color=FFE135&background=05050500&center=true&vCenter=true&width=500&lines=15+year+old+founder+%2F+Gujarat%2C+India;Shipping+FreelanceCFO+%2B+TrustLens;Building+things+that+matter;Open+to+freelance+work)
  
 ![Maharshi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=maharshi878&show_icons=true&theme=dark&bg_color=050505&title_color=FFE135&text_color=c8c4bb&icon_color=FFE135&border_color=1c1c19&hide_border=false&count_private=true)
  
