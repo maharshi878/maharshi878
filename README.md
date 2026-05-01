@@ -117,7 +117,7 @@ I take on a small number of projects at a time, which means if I take yours, I'm
 06  API integrations ......... Third-party APIs, webhooks, automation
 ```
 
-→ **[maharshi878@gmail.com](mailto:maharshi878@gmail.com)**
+→ **[maharshipatel878@gmail.com](mailto:maharshipatel878@gmail.com)**
 
 ---
 
